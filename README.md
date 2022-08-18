@@ -3,7 +3,7 @@
 # ShiFuMi
 A cute little game wrote in Python ;)
 
-paper / Scissor / Rock
+Paper / Scissor / Rock
 
 The Random Module was fun to try, I'd like to implement more complexity in the "AI'
 
